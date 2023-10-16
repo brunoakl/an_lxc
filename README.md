@@ -43,7 +43,7 @@ Para quem deseja se aprofundar mais no tema ou buscar outras implementações e 
    
 - [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - Uma lista abrangente de recursos e ferramentas relacionadas a compiladores.
 
-- [Regular Expressions in Python](https://docs.python.org/3/library/re.html) - Documentação oficial sobre o módulo `re` do Python, utilizado neste código para trabalhar com expressões regulares.
+- [Expressões Regulares em Python](https://docs.python.org/3/library/re.html) - Documentação oficial sobre o módulo `re` do Python, utilizado neste código para trabalhar com expressões regulares.
 
 - [Analisador Léxico com PLY por Bredstone](https://github.com/Bredstone/Analisador-Lexico-Python) - Este repositório, mantido pelo usuário Bredstone, contém um analisador léxico escrito em Python 3.8 utilizando a biblioteca PLY.
 
