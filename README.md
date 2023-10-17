@@ -1,4 +1,6 @@
 # Analisador Léxico para LALG
+- Projeto de Compiladores I
+- Autor: Bruno Machado Ferreira
 
 ## Índice
 
