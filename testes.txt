@@ -1,0 +1,44 @@
+funcionando:
+
+program exemplo1;
+var x, y: integer;
+begin
+    read(x, y);
+    if x > y then
+        write(x);
+    else
+        write(y);
+end;
+
+
+program exemplo2;
+var b, c: integer;
+begin
+    read(b);
+    c := b * 2;
+    write(c);
+end;
+----------------------------------------------------------------------------------
+dando erro:
+
+program exemplo3;
+var b, c: integer;
+begin
+    read(b);
+    c := b * 2; 
+    write(c);
+end;
+
+Este código possui um erro, 
+pois usa o operador de igualdade "=" em vez do operador de atribuição ":="
+
+
+
+program exemplo4;
+var d: floating;
+begin
+    d := 7.6;
+    write(d);
+end;
+
+Aqui, "floating" não é um tipo válido de acordo com os tokens definidos
