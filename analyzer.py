@@ -1,5 +1,5 @@
 import re #Biblioteca para expressões regulares
-import tkinter as tk 
+import tkinter as tk #Tkinter
 from tkinter import messagebox, simpledialog #Biblioteca para interface de aviso
 from tokens import tokens #Importando as tokens do outro módulo
 
@@ -43,7 +43,7 @@ def show_error_popup(message): #popup de erros
 
 def main():
     print("Analisador Léxico para LALG")
-    print("-" * 40)
+    print("-" * 30)
     print("Escolha uma opção:")
     print("1. Usar o código de amostra")
     print("2. Inserir seu próprio código")
