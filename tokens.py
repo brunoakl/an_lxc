@@ -1,3 +1,4 @@
+#Módulo de tokens
 tokens = {
     'PROGRAM': r'\bprogram\b',
     'VAR': r'\bvar\b',
